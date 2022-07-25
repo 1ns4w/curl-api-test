@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "fastify": "^4.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start": "nodemon api.js"
+  },
+  "type": "module"
+}
